@@ -46,6 +46,6 @@ const countryB: CountryWithStatistics = {
   population: 1_412_600_000,
 };
 
-// ----
+// -----
 
 export {};
